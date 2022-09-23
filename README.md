@@ -26,3 +26,7 @@ Started this document 9/22/22
     --Self-Taught Computer Scientist by Cory Althoff
     --Begin to Code with Javascript by Rob Miles (completed projects from book)
  3. Applied to Ada Academy
+ 
+ 9/23/22
+ Finished Begin to Code with Javascript book
+ Continued progress on Odin Project Calculator
