@@ -30,3 +30,7 @@ Started this document 9/22/22
  9/23/22
  Finished Begin to Code with Javascript book
  Continued progress on Odin Project Calculator
+ Worked on CSS Grid exercises in Odin Project Intermediate HTML/CSS
+
+9/25/22 & 9/26/22
+Reading Eloquent Javascript by Marjin Haverbeke & working on exercises after each chapter
