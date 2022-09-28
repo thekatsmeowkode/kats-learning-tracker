@@ -34,3 +34,10 @@ Started this document 9/22/22
 
 9/25/22 & 9/26/22
 Reading Eloquent Javascript by Marjin Haverbeke & working on exercises after each chapter
+
+9/27/22
+Continued reading Eloquent Javascript & completing exercises
+Started Learning Javascript by Ethan Brown
+
+9/28/22
+Continued Learning Javascript by Ethan Brown
