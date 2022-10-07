@@ -41,3 +41,11 @@ Reading Eloquent Javascript by Marjin Haverbeke & working on exercises after eac
 
 9/28/22
 Continued Learning Javascript by Ethan Brown
+
+9/29/22-10/5/22
+Travelled to northern Minnesota and Canada
+
+10/6/22
+Reviewed Learning Javascript by Ethan Brown
+
+10/7/22
