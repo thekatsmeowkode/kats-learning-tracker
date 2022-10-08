@@ -49,3 +49,8 @@ Travelled to northern Minnesota and Canada
 Reviewed Learning Javascript by Ethan Brown
 
 10/7/22
+Odin Project - css grid unit
+Admitted to Hackbright Boot Camp after technical interview today - networked w/alum and asked questions about program
+
+10/8/22
+Odin Project - Admin dashboard project
