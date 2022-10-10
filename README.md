@@ -54,3 +54,9 @@ Admitted to Hackbright Boot Camp after technical interview today - networked w/a
 
 10/8/22
 Odin Project - Admin dashboard project
+
+10/9/22
+Odin Project - Object curriculum
+
+10/10/22
+Odin Project - Library Project
