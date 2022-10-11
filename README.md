@@ -60,3 +60,7 @@ Odin Project - Object curriculum
 
 10/10/22
 Odin Project - Library Project
+
+10/11/22 
+Odin Project - Library Project, 
+Reading You Don't Know JS (2nd Edition)
