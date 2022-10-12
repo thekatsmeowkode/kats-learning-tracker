@@ -64,3 +64,7 @@ Odin Project - Library Project
 10/11/22 
 Odin Project - Library Project, 
 Reading You Don't Know JS (2nd Edition)
+
+10/12/22
+Learning Python now, I got an interview for the ADA academy C19 in Atlanta
+Completing ADA academy resources on Python today
