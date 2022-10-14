@@ -68,3 +68,9 @@ Reading You Don't Know JS (2nd Edition)
 10/12/22
 Learning Python now, I got an interview for the ADA academy C19 in Atlanta
 Completing ADA academy resources on Python today
+
+10/13/22 
+Got very sick, didn't accomplish much
+
+10/14/22
+Recovering, continuing Ada Python course
