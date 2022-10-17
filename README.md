@@ -74,3 +74,10 @@ Got very sick, didn't accomplish much
 
 10/14/22
 Recovering, continuing Ada Python course
+
+10/16/22
+Javascript Tic-tac-toe for Odin Project
+
+10/17/22
+Learning Javascript Design Patterns by Addy Osmani
+Odin Project - ES6 Modules
