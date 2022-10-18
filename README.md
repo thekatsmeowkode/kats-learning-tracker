@@ -81,3 +81,8 @@ Javascript Tic-tac-toe for Odin Project
 10/17/22
 Learning Javascript Design Patterns by Addy Osmani
 Odin Project - ES6 Modules
+
+10/18/22
+Finished Python coding question for Ada Academy technical interview
+Odin Project - Webpack
+
