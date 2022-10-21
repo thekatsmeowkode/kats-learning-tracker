@@ -86,3 +86,12 @@ Odin Project - ES6 Modules
 Finished Python coding question for Ada Academy technical interview
 Odin Project - Webpack
 
+10/19/22
+Odin Project - Javascript Modules
+
+10/20/22 
+Ada Developer Academy Technical Interview
+First time speaking about code with another person
+
+10/21/22
+Odin Project - Javascript Modules
