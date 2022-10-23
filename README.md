@@ -95,3 +95,6 @@ First time speaking about code with another person
 
 10/21/22
 Odin Project - Javascript Modules
+
+10/23/22
+Odin Project - principles of good OOP design
