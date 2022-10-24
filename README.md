@@ -98,3 +98,6 @@ Odin Project - Javascript Modules
 
 10/23/22
 Odin Project - principles of good OOP design
+
+10/24/22
+Odin Project - To-Do List app start
