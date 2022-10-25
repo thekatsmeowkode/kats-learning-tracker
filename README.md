@@ -101,3 +101,6 @@ Odin Project - principles of good OOP design
 
 10/24/22
 Odin Project - To-Do List app start
+
+10/25/22
+Odin Project - To-Do List app, local storage, learned a lot about event propagation & modules
