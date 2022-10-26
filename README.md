@@ -104,3 +104,6 @@ Odin Project - To-Do List app start
 
 10/25/22
 Odin Project - To-Do List app, local storage, learned a lot about event propagation & modules
+
+10/26/22
+Odin Project - To-Do List app, watched all lectures I could find by Codesmith CEO, Will Sentance (very helpful)
