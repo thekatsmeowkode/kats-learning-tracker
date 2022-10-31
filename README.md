@@ -110,3 +110,9 @@ Odin Project - To-Do List app, watched all lectures I could find by Codesmith CE
 
 10/27/22
 Odin Project - today I finished a code that I would deem largely unintelligible to others, full of DRY violations, and a poor attempt to make a code modular.  This was the first project I made using modules and webpack, so the focus was on getting them to work.  I plan to continue working on this.
+
+10/30/22
+Head First Javascript by Elisabeth Robson and Eric Freeman
+
+10/31/22
+Odin Project - Weather app (async/await & api)
