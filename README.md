@@ -116,3 +116,15 @@ Head First Javascript by Elisabeth Robson and Eric Freeman
 
 10/31/22
 Odin Project - Weather app (async/await & api)
+
+11/1/22
+Ada Developer Academy final interview
+
+11/2/22-11/4/22
+COVID, very sick
+
+11/5/22
+Continue book Head First Javascript
+
+11/6/22
+Odin Project - computer science fundamentals
