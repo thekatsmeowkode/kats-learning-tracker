@@ -128,3 +128,9 @@ Continue book Head First Javascript
 
 11/6/22
 Odin Project - computer science fundamentals
+
+11/7/22
+Odin Project - computer science fundamentals (merge sort, binary search tree)
+
+11/8/22 
+Odin Project - computer science fundamentals, client-side form validation
