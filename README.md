@@ -134,3 +134,9 @@ Odin Project - computer science fundamentals (merge sort, binary search tree)
 
 11/8/22 
 Odin Project - computer science fundamentals, client-side form validation
+
+11/9/22
+Oding Project - client-side form validation
+
+11/10/22
+Odin Project - client-side form validation, advanced git topics, dynamic user interface interactions
