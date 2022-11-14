@@ -140,3 +140,15 @@ Oding Project - client-side form validation
 
 11/10/22
 Odin Project - client-side form validation, advanced git topics, dynamic user interface interactions
+
+11/11/22
+Odin Project - testing with Jest
+
+11/12/22
+First coding meetup with NewBoCo
+
+11/13/22
+Head-First Javascript book
+
+11/14/22
+Odin Project - testing with Jest
