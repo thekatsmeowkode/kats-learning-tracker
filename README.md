@@ -152,3 +152,9 @@ Head-First Javascript book
 
 11/14/22
 Odin Project - testing with Jest
+
+11/15/22
+Odin Project - Battleship
+
+11/16/22
+Odin Project - Battleship
