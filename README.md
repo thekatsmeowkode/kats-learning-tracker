@@ -162,4 +162,8 @@ Odin Project - Battleship
 11/17/22 - 11/21/22
 Odin Project - Battleship
 
+11/22/22
+Odin Project - Battleship & start of React curriculum
 
+11/23/22
+Odin Project - React lessons
