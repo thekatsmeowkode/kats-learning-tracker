@@ -177,3 +177,6 @@ Odin Project - React
 11/26/22
 Odin Project - React
 Scrimba - Learn React for Free
+
+11/27/22
+Scrimba - Learn React for Free
