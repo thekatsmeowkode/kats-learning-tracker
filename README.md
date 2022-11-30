@@ -180,3 +180,8 @@ Scrimba - Learn React for Free
 
 11/27/22
 Scrimba - Learn React for Free
+
+11/28/22 11/29/22 11/30/22
+Scrimba- Learn React for Free
+Professor Steve (youtube) Class Based React
+Odin Project - React CV Creator Project
