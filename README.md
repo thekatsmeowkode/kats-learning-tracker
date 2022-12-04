@@ -185,3 +185,6 @@ Scrimba - Learn React for Free
 Scrimba- Learn React for Free
 Professor Steve (youtube) Class Based React
 Odin Project - React CV Creator Project
+
+12/1 12/2 12/4
+Continue learning React, CV creator has massive problems so I'm back to drawing board with React learning
