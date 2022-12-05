@@ -188,3 +188,8 @@ Odin Project - React CV Creator Project
 
 12/1 12/2 12/4
 Continue learning React, CV creator has massive problems so I'm back to drawing board with React learning
+
+12/5/22
+Odin Project - React CV Creator
+New branch in project, converted class based components to functions
+
