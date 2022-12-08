@@ -196,3 +196,9 @@ New branch in project, converted class based components to functions
 12/6
 Odin Project - React CV Creator
 Fixing bugs, adding features
+
+12/7/22
+Odin Project - Memory Game
+
+12/8/22
+Odin Project - React Router & React Testing units
