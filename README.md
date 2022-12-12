@@ -202,3 +202,14 @@ Odin Project - Memory Game
 
 12/8/22
 Odin Project - React Router & React Testing units
+
+12/9/22
+Odin Project - Cleaning up old projects and publishing to Netlify
+
+12/11/22
+Odin Project - React Router & Testing Basics
+Cleaning up old projects, publish to Netlify for personal portfolio prep
+
+12/12/22
+Clean up old projects
+Odin Project - start React shopping cart project
