@@ -213,3 +213,7 @@ Cleaning up old projects, publish to Netlify for personal portfolio prep
 12/12/22
 Clean up old projects
 Odin Project - start React shopping cart project
+
+12/13/22
+Odin Project - React Shopping Cart project
+Ada Developer Academy - decision day tomorrow
