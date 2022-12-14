@@ -216,4 +216,8 @@ Odin Project - start React shopping cart project
 
 12/13/22
 Odin Project - React Shopping Cart project
-Ada Developer Academy - decision day tomorrow
+
+12/4/22
+Odin Project - React Shopping Cart project
+
+
