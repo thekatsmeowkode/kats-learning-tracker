@@ -220,6 +220,7 @@ Odin Project - React Shopping Cart project
 12/14/22
 Odin Project - React Shopping Cart project
 Waitlisted for Ada Developer Academy
+Learned how to use React Bootstrap Library
 
 12/15/22
 Odin Project- Learning Firebase BaaS for Back End
