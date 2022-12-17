@@ -225,4 +225,10 @@ Learned how to use React Bootstrap Library
 12/15/22
 Odin Project- Learning Firebase BaaS for Back End
 
+12/16/22
+Started The Clean Coder: A Code of Conduct for Professional Programmers
+Book by Robert Cecil Martin
+Today I learned TDD is something I need to focus on
 
+12/17/22
+Odin Project - Learning Firebase through updating previous project to integrate with BaaS
