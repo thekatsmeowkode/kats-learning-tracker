@@ -232,3 +232,11 @@ Today I learned TDD is something I need to focus on
 
 12/17/22
 Odin Project - Learning Firebase through updating previous project to integrate with BaaS
+
+12/18/22
+Learned a little Firebase
+Finished The Clean Coder book - very very good book
+Started reading Clean Code, book by Robert Cecil Martin
+
+12/19/22
+Odin Project - Firebase Authentication with Library Project
