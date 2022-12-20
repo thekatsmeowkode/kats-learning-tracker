@@ -240,3 +240,7 @@ Started reading Clean Code, book by Robert Cecil Martin
 
 12/19/22
 Odin Project - Firebase Authentication with Library Project
+
+12/20/22
+Today I found out I could have a spot in Atlanta Ada Academy program.
+I spent the day looking at apartments.  
