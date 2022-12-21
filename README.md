@@ -244,3 +244,6 @@ Odin Project - Firebase Authentication with Library Project
 12/20/22
 Today I found out I could have a spot in Atlanta Ada Academy program.
 I spent the day looking at apartments.  
+
+12/21/22
+Atlanta apartment search and admiring Airbnb UI
