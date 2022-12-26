@@ -247,3 +247,9 @@ I spent the day looking at apartments.
 
 12/21/22
 Atlanta apartment search and admiring Airbnb UI
+
+12/22/22, 12/23/22, 12/25/22
+Angela Yu's 100 days of Python course (for Ada)
+
+12/26/22
+100 days of python
