@@ -253,3 +253,6 @@ Angela Yu's 100 days of Python course (for Ada)
 
 12/26/22
 100 days of python
+
+12/27-12/30
+100 days of python
