@@ -256,3 +256,7 @@ Angela Yu's 100 days of Python course (for Ada)
 
 12/27-12/30
 100 days of python
+
+12/2/22
+Started Cracking the Coding Interview by Gayle Laakmann McDowell
+100 Days of Python
