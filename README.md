@@ -266,3 +266,10 @@ Started Cracking the Coding Interview by Gayle Laakmann McDowell
 
 1/4/23-1/10/23
 100 Days of Python
+
+1/11-1/13
+100 Days of Python
+
+1/14/23
+Harvard CS50 2021 Lecture 9
+Harvard CS50 Lecture 7
