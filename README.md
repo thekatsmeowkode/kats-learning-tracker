@@ -277,3 +277,6 @@ Harvard CS50 Lecture 7
 1/15/23
 100 Days of Python
 Harvard CS50 Lecture 8
+
+1/16/23-1/18/23
+100 Day of Python
