@@ -280,3 +280,10 @@ Harvard CS50 Lecture 8
 
 1/16/23-1/18/23
 100 Day of Python
+
+1/19/23-1/20/23
+Build website for client pro bono
+http://northside-park-montessori.com/
+
+1/23/23
+100 Days of Python
