@@ -287,3 +287,9 @@ http://northside-park-montessori.com/
 
 1/23/23
 100 Days of Python
+
+1/24/23-1/29/23
+Off
+
+1/30/22
+97 Things Every Programmer Should Know - O'Reilly publishing
